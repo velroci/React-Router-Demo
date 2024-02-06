@@ -35,13 +35,15 @@ body > div {
   justify-content: center;
 }
 
-.red {
+#red {
   background-color: #b05f6d;
-  color: white;
+  
 }
 
 .blue {
   background-color: #275db3;
-  color: white;
-}
 
+}
+.home{
+  background-color: #b05f6d;
+}
